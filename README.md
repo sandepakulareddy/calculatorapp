@@ -1,24 +1,3 @@
-# Calculator App
-
-## Project Overview
-The Calculator App is a simple yet powerful application designed to perform basic arithmetic operations. It aims to provide users with an intuitive interface and fast calculations.
-
-## Repository Information
-- **Owner:** sandepakulareddy
-- **Repository:** calculatorapp
-- **Current Date:** 2026-02-21
-
-## Project Structure
-```
-calculatorapp/
-├── src/                # Source files
-│   ├── components/     # React components
-│   ├── utilities/      # Helper functions
-│   └── App.js          # Main application file
-├── public/             # Static files
-│   └── index.html      # Main HTML file
-├── README.md           # Project documentation
-└── package.json        # Project metadata and dependencies
 ```
 
 ## Getting Started Guide
